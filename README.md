@@ -1,6 +1,8 @@
-# Learning Management System (LMS)
+# Perpustakaan Digital 
 
-Junior Web Developer - VSGA - Digitalent Kominfo 2021
+# Junior Web Developer - VSGA - Digitalent Kominfo 2021
+
+Aplikasi Perpustakaan pinjam buku 
 
 1. PHP Native
 2. MySQL
